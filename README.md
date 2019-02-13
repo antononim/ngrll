@@ -1,2 +1,2 @@
 # ngrll
-ngrok installer script for termux
+seeker (ngrok include) installer for termux
